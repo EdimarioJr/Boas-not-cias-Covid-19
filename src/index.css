@@ -8,17 +8,17 @@
 }
 
 @font-face {
-    src: url(../fonts/Arvo-Bold.ttf);
+    src: url(fonts/Arvo-Bold.ttf);
     font-family: 'Arvo Bold';    
 } 
 
 @font-face{
-    src: url(../fonts/Arvo-Regular.ttf);
+    src: url(fonts/Arvo-Regular.ttf);
     font-family: 'Arvo'
 }
 
 @font-face{
-    src: url(../fonts/Anton-Regular.ttf);
+    src: url(fonts/Anton-Regular.ttf);
     font-family: 'Anton';
 }
 
@@ -120,23 +120,23 @@ header + h1{
 }
 
 #noticia-1{
-    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(../images/Alemanha.jpg);
+    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(images/Alemanha.jpg);
 }
 
 #noticia-2{
-    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(../images/NovaYork.jpg);
+    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(images/NovaYork.jpg);
 }
 
 #noticia-3{
-    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(../images/Italia.jpg);
+    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(images/Italia.jpg);
 }
 
 #noticia-4{
-    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(../images/msn.jpg);
+    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(images/msn.jpg);
 }
 
 #noticia-5{
-    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(../images/maranhao.jpg);
+    background:linear-gradient(rgba(113,89,193,0.5),rgba(113,89,193,0.5)),url(images/maranhao.jpg);
 }
 
 footer{
@@ -155,7 +155,7 @@ footer span{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-image: url(../images/perfil.jpg);
+    background-image: url(images/perfil.jpg);
     background-size: cover;
     margin-bottom: 30px;
 }
